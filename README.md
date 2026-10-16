@@ -32,36 +32,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0ea5e9&height=2" alt="" />
 
-## Sedang dikerjakan
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**SIP PKB** — aplikasi penerimaan Pajak Kendaraan Bermotor untuk UPTD: input
-transaksi, posting, stok notice, laporan, dan rekapitulasi.
-
-![Laravel](https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire_4-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8.5-777BB4?style=flat-square&logo=php&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**Otomasi portal web** — skrip peramban untuk pekerjaan berulang di portal
-pemerintahan: pembayaran, SKPD, SSPD, dan denda.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tampermonkey](https://img.shields.io/badge/Tampermonkey-000000?style=flat-square&logo=tampermonkey&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=2" alt="" />
-
 ## Statistik
 
 <div align="center">

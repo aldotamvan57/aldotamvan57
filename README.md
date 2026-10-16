@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e3a8a,100:0ea5e9&height=210&section=header&text=aldotamvan57&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Full-stack%20%C2%B7%20Vibe%20Code&descAlignY=56&descSize=19&animation=fadeIn" alt="aldotamvan57 — full-stack · vibe code" />
+<img width="100%" src="header.svg" alt="AldoDwm — Full-stack · Vibe Code · Redteam Pentesting" />
 
 <a href="https://github.com/aldotamvan57?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&height=58&lines=Full-stack+Developer;Vibe+Coder;Laravel+%2B+Livewire;PHP+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Aplikasi+pajak+daerah+%C2%B7+otomasi+portal" alt="efek ketik" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=600&size=27&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&height=62&lines=Full-stack+Developer;Vibe+Coder;Redteam+Pentester;Laravel+%2B+Livewire;Uji+tembus+%C2%B7+eksploitasi+terkendali" alt="efek ketik" />
 </a>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,tailwind,html,css,git,github,linux,nginx,vscode&theme=dark&perline=6" alt="teknologi yang dipakai" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,tailwind,html,css,git,github,linux,nginx,vscode&theme=dark&perline=6" alt="teknologi" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=kali,python,bash,docker,sqlite,redis,ubuntu,powershell,debian,vim,nodejs,arch&theme=dark&perline=6" alt="perkakas redteam" />
 
 <br><br>
 
@@ -17,6 +21,16 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=2" alt="" />
+
+## Bidang
+
+| | |
+|---|---|
+| **Full-stack web** | Laravel 13 + Livewire 4, MariaDB, Tailwind 4, Vite |
+| **Vibe code** | bangun cepat bersama AI, lalu dirapikan, diuji, dan dibuktikan |
+| **Redteam pentesting** | uji tembus, eksploitasi terkendali, dan pelaporan temuan |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0ea5e9&height=2" alt="" />
 
 ## Sedang dikerjakan
 
@@ -46,7 +60,7 @@ pemerintahan: pembayaran, SKPD, SSPD, dan denda.
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0ea5e9&height=2" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=2" alt="" />
 
 ## Statistik
 

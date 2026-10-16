@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195"
+     viewBox="0 0 467 195" role="img"
+     aria-label="Perkakas: PHP · JavaScript · Python · Bash · SQL, Laravel 13 · Livewire 4 · Tailwind 4 · Vite, MariaDB · SQLite · Linux · nginx · Docker, nmap · ffuf · sqlmap · NetExec · Sliver">
+  <style>
+      .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+      .label  { font: 400 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a9b1d6; }
+      .nilai  { font: 600 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #38bdae; }
+      .baris  { opacity: 0; animation: masuk .5s ease-in-out forwards; }
+      @keyframes masuk { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+  </style>
+  <rect width="467" height="195" rx="4.5" fill="#1a1b27"/>
+  <text class="header" x="25" y="38">Perkakas</text>
+  <g class="baris" style="animation-delay:0.15s"><text class="label" x="28" y="78">Bahasa</text><text class="nilai" x="128" y="78">PHP · JavaScript · Python · Bash · SQL</text></g>
+  <g class="baris" style="animation-delay:0.27s"><text class="label" x="28" y="108">Framework</text><text class="nilai" x="128" y="108">Laravel 13 · Livewire 4 · Tailwind 4 · Vite</text></g>
+  <g class="baris" style="animation-delay:0.39s"><text class="label" x="28" y="138">Data &amp; sistem</text><text class="nilai" x="128" y="138">MariaDB · SQLite · Linux · nginx · Docker</text></g>
+  <g class="baris" style="animation-delay:0.51s"><text class="label" x="28" y="168">Redteam</text><text class="nilai" x="128" y="168">nmap · ffuf · sqlmap · NetExec · Sliver</text></g>
+</svg>

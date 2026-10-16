@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aldotamvan57&label=Dilihat&color=0ea5e9&style=for-the-badge" alt="jumlah dilihat" />
+<img src="https://hits.sh/github.com/aldotamvan57.svg?label=Dilihat&color=0ea5e9&style=for-the-badge" alt="jumlah dilihat" />
 
 </div>
 
